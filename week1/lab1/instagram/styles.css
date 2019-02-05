@@ -1,0 +1,112 @@
+body{
+    background-color: #fafafa;
+}
+
+.inst {
+    padding: 0cm 1cm 1cm 1cm;
+width: 40%;
+border-style: solid;
+opacity: 20%;
+border-width: 1px;
+border-color: #999;
+background-color: white;
+margin-top: 1cm;
+}
+.second{
+    padding: 0cm 1cm 1cm 0cm;
+    width: 46%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #999;
+    background-color: white;
+    height: 20px;
+    margin-bottom: .5cm;
+    
+}
+.sec{
+    text-align: center;
+    font-size: 14px;
+    margin: 15px 30px;
+}
+
+#phone{
+    padding-left: 8cm;
+}
+.ili{
+    text-align: center;
+    color: #999;
+}
+.input1{
+    margin: auto; 
+    width: 250px;
+    font-weight: 300;
+    border: 0.1 solid #999;
+    border-radius: 3px;
+    height: .5cm;
+    text-overflow: ellipsis;
+    font-size: 11px;
+}
+.regist{
+    background-color: #3897f0;
+    border: 1px solid #3897f0;
+    border-radius: 4px;
+    color: #fff;
+    position: relative;
+    display: block;
+    font-weight: 600;
+    padding: 5px 9px;
+    text-align: center;
+    margin: auto;
+    width: 250px;
+}
+.p2{
+    color: #999;
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 25px; 
+}
+.p1{
+    color: #999;
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 30px;
+}
+section{
+    column-count: 2;
+}
+.third{
+    width: 60%;
+    margin-top: 0px;
+    margin-bottom: 2cm;
+}
+.app1 {
+    color: #262626;
+font-size: 14px;
+line-height: 18px;
+margin: 10px 20px;
+text-align: center;
+}
+.app2 {
+flex-direction: row;
+justify-content: center;
+margin-top: 10px ;
+margin-bottom: 4cm;
+}
+.play-store {
+        height: 37px;
+}
+footer{
+    justify-content: center;
+    margin-bottom: 2cm;
+    text-align: center;
+    
+}
+.foot{
+    font-size: 14px;
+    margin-right: .7cm;
+}
+#last{
+    color: #999;
+    font-size: 14px;
+    margin-left: -12cm;
+}

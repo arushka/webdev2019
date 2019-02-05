@@ -1,0 +1,34 @@
+header{
+    margin: 0px 0px 0px 0px;
+    background-color: #46639F;
+}
+body{
+    margin: 0px 0px 0px 0px;
+    background-color: white;
+}
+.main{
+    color: white;
+    margin-left: 4cm;
+}
+#white{
+    color: white;
+}
+.top{
+    color: white; 
+    margin-top: 30px;
+    
+}
+
+#button{
+    width: 30%;
+    height: 1cm;
+    cursor: pointer;
+background-color: rgb(98, 235, 19);
+}
+section{
+    width:1350px;
+    height: 500px;
+    margin: 0px 0px 0px 0px;
+    background-color:  rgb(220, 220, 248);
+    column-count: 2;
+}

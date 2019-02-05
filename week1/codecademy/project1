@@ -1,0 +1,15 @@
+//first kelvin
+const kelvin=0;
+ //celcius
+var celsius;
+celsius=kelvin-273;
+//far
+var fahrenheit=celsius*(9/5)+32;
+//floor
+fahrenheit=Math.floor(fahrenheit);
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+
+var newton=celsius*(33/100);
+//newton
+newton=Math.floor(newton);
+console.log(`The temperature is ${newton} degrees Newton.`);
