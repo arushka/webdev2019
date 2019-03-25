@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "lab1"
+		},
+		{
+			"path": "C:\\Users\\kuatb\\Desktop\\webdev2019\\week2"
+		},
+		{
+			"path": "C:\\Users\\kuatb\\Desktop\\webdev2019\\week3"
+		},
+		{
+			"path": "C:\\Users\\kuatb\\Desktop\\project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
