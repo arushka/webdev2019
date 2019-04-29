@@ -1,6 +1,6 @@
 body{
     font-family: 'Gruppo';
-    background-image: url("https://images.wallpaperscraft.ru/image/shestiugolniki_forma_rendering_120754_1920x1080.jpg");
+    background-image: url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=661&q=80");
     background-size: 100% contain;
     background-attachment: scroll;
     color:rgb(255, 255, 255);
@@ -69,12 +69,14 @@ img{
     padding-left: 30px;
     padding-right: 30px;
 }
-#ar2{
-    position: relative;
-    top:-140px;
-    left: 92%;
+
+
+.auth{
+    display: flex;
+    justify-content: center;
+    
+    min-width: 973px;
 }
-#ar1{
-    position: relative;
-    right: 1%;
+.auth input:hover{
+    box-shadow: 0px 0px 15px rgb(202, 126, 243);
 }
