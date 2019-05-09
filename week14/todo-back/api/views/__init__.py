@@ -2,5 +2,5 @@
 from .fbv import list_tasks
 
 # from .cbv import Lists,ListTasks,TaskListDetail
-from .generic_cbv import Lists, TaskListDetail
-from .auth import login,logout
+from .generic_cbv import Lists, TaskListDetail, TasksFromList
+from .auth import login, logout

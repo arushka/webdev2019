@@ -1,4 +1,4 @@
-from ..serializers import TaskSerializer2,ListSerializer2,TaskSerializer
+from ..serializers import TaskSerializer2,TaskSerializer
 from ..models import TaskList,Task
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
